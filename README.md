@@ -1,7 +1,6 @@
 # pk-cli
-
-I found myself lost everytime I try to google for commands when I work on something different. So I made this as a productivity tools for myself.
-I scaffold my project by reading
+* create-react-app build & deploy command
+* set slack status
 
 # System configuration
 Mac, *Nix
